@@ -45,3 +45,5 @@ const errorHandler = (err, req, res, next) => {
 };
 
 module.exports = errorHandler;
+
+// mongodb+srv://admin:<db_password>@cluster0.s3pla.mongodb.net/
